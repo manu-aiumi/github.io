@@ -1,0 +1,45 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f491ed5d-5daf-41fe-8f7e-516c0a9eef4b\" name=\"Default\" comment=\"recepty\">\r\n      <change afterPath=\"$PROJECT_DIR$/horses/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1fBbqA0rikwAR1dlkTJUmv5nOym\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"HbShouldOpenHtmlAsHb\" value=\"\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"dart.analysis.tool.window.visible\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/horses\" />\r\n    <property name=\"node.js.detected.package.prettier\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.prettier\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.prettier\" value=\"\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.keymap\" />\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f491ed5d-5daf-41fe-8f7e-516c0a9eef4b\" name=\"Default\" comment=\"\" />\r\n      <created>1519585671053</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1519585671053</updated>\r\n      <workItem from=\"1519585672360\" duration=\"492000\" />\r\n      <workItem from=\"1519586618156\" duration=\"85000\" />\r\n      <workItem from=\"1519976339254\" duration=\"47000\" />\r\n      <workItem from=\"1520890984746\" duration=\"345000\" />\r\n      <workItem from=\"1521141072627\" duration=\"1554000\" />\r\n      <workItem from=\"1521324101774\" duration=\"5000\" />\r\n      <workItem from=\"1525597320592\" duration=\"8000\" />\r\n      <workItem from=\"1527792943807\" duration=\"212000\" />\r\n      <workItem from=\"1529152577934\" duration=\"1067000\" />\r\n      <workItem from=\"1536691578524\" duration=\"12000\" />\r\n      <workItem from=\"1536691616664\" duration=\"26000\" />\r\n      <workItem from=\"1547407162593\" duration=\"2157000\" />\r\n      <workItem from=\"1595694621887\" duration=\"333000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"zkouška zelené\">\r\n      <created>1521142443431</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1521142443431</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"odkaz\">\r\n      <created>1547408503348</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1547408503348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"recepty\">\r\n      <created>1547408778263</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1547408778263</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"zkouška zelené\" />\r\n    <MESSAGE value=\"odkaz\" />\r\n    <MESSAGE value=\"recepty\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"recepty\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision d6c1fa7cd31f5a3bff20c7cc56814a3d8afb3b29)
++++ .idea/workspace.xml	(date 1595695163950)
+@@ -1,5 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
+   <component name="ChangeListManager">
+     <list default="true" id="f491ed5d-5daf-41fe-8f7e-516c0a9eef4b" name="Default" comment="recepty">
+       <change afterPath="$PROJECT_DIR$/horses/index.html" afterDir="false" />
+@@ -28,6 +46,11 @@
+     <property name="node.js.selected.package.prettier" value="" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Development\Yummi\horses" />
++    </key>
+   </component>
+   <component name="SvnConfiguration">
+     <configuration />
