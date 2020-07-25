@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f491ed5d-5daf-41fe-8f7e-516c0a9eef4b" name="Default" comment="recepty">
+      <change afterPath="$PROJECT_DIR$/horses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fBbqA0rikwAR1dlkTJUmv5nOym" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/horses" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f491ed5d-5daf-41fe-8f7e-516c0a9eef4b" name="Default" comment="" />
+      <created>1519585671053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519585671053</updated>
+      <workItem from="1519585672360" duration="492000" />
+      <workItem from="1519586618156" duration="85000" />
+      <workItem from="1519976339254" duration="47000" />
+      <workItem from="1520890984746" duration="345000" />
+      <workItem from="1521141072627" duration="1554000" />
+      <workItem from="1521324101774" duration="5000" />
+      <workItem from="1525597320592" duration="8000" />
+      <workItem from="1527792943807" duration="212000" />
+      <workItem from="1529152577934" duration="1067000" />
+      <workItem from="1536691578524" duration="12000" />
+      <workItem from="1536691616664" duration="26000" />
+      <workItem from="1547407162593" duration="2157000" />
+      <workItem from="1595694621887" duration="333000" />
+    </task>
+    <task id="LOCAL-00001" summary="zkouška zelené">
+      <created>1521142443431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521142443431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="odkaz">
+      <created>1547408503348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547408503348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="recepty">
+      <created>1547408778263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547408778263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zkouška zelené" />
+    <MESSAGE value="odkaz" />
+    <MESSAGE value="recepty" />
+    <option name="LAST_COMMIT_MESSAGE" value="recepty" />
+  </component>
+</project>
